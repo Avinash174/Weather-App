@@ -1,4 +1,4 @@
-# Weather App Using OpenWeather API
+# Weather App Using OpenWeather API & BloC Pattern.
 
 A New Flutter Weather App Using BloC Pattern & Using OpenWeather API.
 
